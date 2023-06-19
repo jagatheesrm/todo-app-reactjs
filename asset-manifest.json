@@ -1,6 +1,19 @@
 {
-  "main.css": "static/css/main.40b4a62f.css",
-  "main.css.map": "static/css/main.40b4a62f.css.map",
-  "main.js": "static/js/main.a8e8ea58.js",
-  "main.js.map": "static/js/main.a8e8ea58.js.map"
+  "files": {
+    "main.css": "/todo-app-reactjs/static/css/main.6706c71e.css",
+    "main.js": "/todo-app-reactjs/static/js/main.9384767a.js",
+    "static/js/787.dc91ceb5.chunk.js": "/todo-app-reactjs/static/js/787.dc91ceb5.chunk.js",
+    "index.html": "/todo-app-reactjs/index.html",
+    "static/media/icon-sun.svg": "/todo-app-reactjs/static/media/icon-sun.910b1f9a23741afc341e95653a51f14f.svg",
+    "static/media/icon-moon.svg": "/todo-app-reactjs/static/media/icon-moon.6c03114b495d05f4380b3c544d9afe2a.svg",
+    "static/media/icon-cross.svg": "/todo-app-reactjs/static/media/icon-cross.6ee81d30b75cab19d6f7314624fcc4d6.svg",
+    "static/media/icon-check.svg": "/todo-app-reactjs/static/media/icon-check.a8fb15d0278c8e312df5fc8364fef863.svg",
+    "main.6706c71e.css.map": "/todo-app-reactjs/static/css/main.6706c71e.css.map",
+    "main.9384767a.js.map": "/todo-app-reactjs/static/js/main.9384767a.js.map",
+    "787.dc91ceb5.chunk.js.map": "/todo-app-reactjs/static/js/787.dc91ceb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6706c71e.css",
+    "static/js/main.9384767a.js"
+  ]
 }
