@@ -1,4 +1,3 @@
-Live Site: [https://delicate-wisp-fbe6a6.netlify.app/]
 
 ### Screenshot
 
